@@ -1,5 +1,9 @@
 # GSB Matrimony Microservices
 
+**Project Start Date: August 17, 2023**
+
+⚠️ **Please Note: This project is currently in an experimental phase, and its completion is uncertain.**
+
 Welcome to the GSB Matrimony Microservices repository! This open-source project aims to provide a microservices-based platform for the GSB (Goud Saraswat Brahmin) community, enabling them to connect and interact for matrimony purposes. The platform is built using Java Spring Boot and follows a modular architecture to enhance scalability, maintainability, and flexibility.
 
 ## Table of Contents
