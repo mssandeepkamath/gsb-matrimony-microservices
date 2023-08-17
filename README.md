@@ -20,7 +20,7 @@ Welcome to the GSB Matrimony Microservices repository! This open-source project 
 
 ## Project Overview
 
-The GSB Matrimony Microservices project is designed to cater to the specific needs of the GSB community for matrimony purposes. It includes multiple microservices that handle various functionalities, such as user authentication, matchmaking, communication, and more.
+The GSB Matrimony Microservices project is designed to cater to the specific needs of the GSB community for matrimony purposes. It includes multiple microservices that handle various functionalities, such as user authentication, matchmaking, communication, and more. The project uniquely integrates Melameli assessment and direct communication with respected priests (Bhatmaams), offering a comprehensive and culturally enriched matrimonial experience for the GSB community.
 
 ## Features
 
