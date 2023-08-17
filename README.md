@@ -47,7 +47,7 @@ For detailed instructions on setting up and running each microservice, please re
 
 The project follows a microservices architecture to achieve modularity, scalability, and maintainability. Each microservice is responsible for a specific functionality and can be developed, tested, and deployed independently.
 
-For a detailed overview of the architecture, communication patterns, and interaction between microservices, please refer to the [Architecture Documentation](/Architecture.md).
+For a detailed overview of the architecture, communication patterns, and interaction between microservices, please refer to the [Architecture Documentation](/ARCHITECTURE.md).
 
 ## Contributing
 
