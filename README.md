@@ -12,6 +12,7 @@ Welcome to the GSB Matrimony Microservices repository! This open-source project 
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Architecture](#architecture)
+- [Project Timeline](#project-timeline)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -48,6 +49,20 @@ For detailed instructions on setting up and running each microservice, please re
 The project follows a microservices architecture to achieve modularity, scalability, and maintainability. Each microservice is responsible for a specific functionality and can be developed, tested, and deployed independently.
 
 For a detailed overview of the architecture, communication patterns, and interaction between microservices, please refer to the [Architecture Documentation](/ARCHITECTURE.md).
+
+## Project Timeline
+
+Please note that the timeline provided below is a rough estimate and can vary based on factors such as your availability, project complexity, and unforeseen challenges.
+
+- **Initial Planning and Setup:** 8-16 weeks
+- **Microservices Development:** 40-64 weeks
+- **Integration and Testing:** 16-32 weeks
+- **Documentation and Deployment:** 8-16 weeks
+- **Fine-Tuning and Refinement:** 16-32 weeks
+
+**Total Estimated Project Completion Time:** Approximately 88 weeks (about 22 months) to 160 weeks (about 40 months).
+
+This timeline takes into account your availability of one hour per day and is designed to allow for a gradual pace of development. Regular progress assessment and consistent effort are essential to successfully completing the project within the estimated timeframe.
 
 ## Contributing
 
