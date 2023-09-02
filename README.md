@@ -1,6 +1,6 @@
 # GSB Matrimony Microservices
 
-**Expected Project Start Date: September 20, 2023**
+**Expected Project Start Date:** September 20, 2023.
 
 **Expected Project Completion Date Range:** Around June 7, 2025, to December 17, 2026.
 
